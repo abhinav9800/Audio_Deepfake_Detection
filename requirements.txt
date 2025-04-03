@@ -1,0 +1,10 @@
+Python 3.6+
+torch
+NumPy
+Pandas
+Librosa
+SoundFile
+Scikit-learn
+SciPy
+Matplotlib
+tqdm
